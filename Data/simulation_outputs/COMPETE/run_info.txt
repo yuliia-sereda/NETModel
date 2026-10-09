@@ -1,0 +1,6 @@
+parameter_set: COMPETE
+submitted: 2026-09-27 00:04:50
+git_commit: d96f6db
+input_file: /users/syuliia/NECModel/NECModel/Data/input_params_COMPETE.csv
+steps: 01a 01b 02 03
+jobs: sets=6732814 bounds=6732815 gam=6732816 diff=6732817

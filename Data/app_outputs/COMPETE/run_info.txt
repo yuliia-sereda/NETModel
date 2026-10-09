@@ -1,0 +1,9 @@
+pipeline: app
+parameter_set: COMPETE
+submitted: 2026-10-06 17:02:53
+git_commit: 40f5d9d
+input_file: /users/syuliia/NECModel/NECModel/Data/input_params_COMPETE.csv
+design_file: /users/syuliia/NECModel/NECModel/design/app_design_grid.rds
+parameter_sets: 1000 (seed 5678) in 25 array tasks
+steps: sim combine diff
+jobs: sim=7068553 combine=7068554 diff=7068555

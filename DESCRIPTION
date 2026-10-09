@@ -1,0 +1,42 @@
+Package: NECModel
+Title: Treatment Sequencing in Small Bowel Neuroendocrine Tumours
+Version: 1.0.0
+Authors@R: c(
+    person("Thomas A.", "Trikalinos", , "ttrikalin@mac.com", role = c("aut", "cre", "cph"),
+           comment = c(ORCID = "0000-0002-3990-1848")),
+    person("Yuliia", "Sereda", , "sereda_yuliia@brown.edu", role = c("aut", "cph"),
+           comment = c(ORCID = "0000-0002-4017-4561"))
+    )
+Description: A continuous-time microsimulation model comparing sequences of
+    peptide receptor radionuclide therapy (PRRT), everolimus, and cabozantinib
+    for patients with small bowel neuroendocrine tumours who progress on
+    somatostatin analogues, and tools for a decision analysis under deep
+    uncertainty. Transition times are drawn from non-homogeneous Poisson point
+    processes; the model propagates probabilistic parameter uncertainty and
+    uncertainty sets for treatment-effect attenuation and the incidence of
+    post-PRRT myelodysplastic syndrome and acute myeloid leukaemia (MDS/AML)
+    to mean overall survival, progression-free survival, and MDS/AML
+    incidence. Treatment sequences are compared with choice functions for
+    decisions under ambiguity (maximality, interval dominance, optimism,
+    pessimism, Hurwicz) and summarised as Hasse diagrams.
+License: MIT + file LICENSE
+URL: https://github.com/yuliia-sereda/NECModel
+BugReports: https://github.com/yuliia-sereda/NECModel/issues
+Encoding: UTF-8
+Language: en-GB
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.3
+Imports: 
+    cmprsk,
+    mortality,
+    nhppp,
+    parallel,
+    R6,
+    survival,
+    truncnorm
+Depends: 
+    data.table
+Suggests: 
+    igraph,
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3

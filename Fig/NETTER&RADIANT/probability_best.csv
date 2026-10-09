@@ -1,0 +1,17 @@
+"scenario","tx","p_best_os","p_best_pfs"
+"No Tx Discount, Low MDS/AML","PE",0,0
+"No Tx Discount, Low MDS/AML","EP",0,0
+"No Tx Discount, Low MDS/AML","PEC",0,0
+"No Tx Discount, Low MDS/AML","PCE",0,0
+"No Tx Discount, Low MDS/AML","EPC",0.001,0.001
+"No Tx Discount, Low MDS/AML","ECP",0.485,0.492
+"No Tx Discount, Low MDS/AML","CPE",0,0
+"No Tx Discount, Low MDS/AML","CEP",0.514,0.507
+"High Tx Discount, High MDS/AML","PE",0,0
+"High Tx Discount, High MDS/AML","EP",0,0
+"High Tx Discount, High MDS/AML","PEC",0.228,0.214
+"High Tx Discount, High MDS/AML","PCE",0.652,0.566
+"High Tx Discount, High MDS/AML","EPC",0.005,0.013
+"High Tx Discount, High MDS/AML","ECP",0,0
+"High Tx Discount, High MDS/AML","CPE",0.115,0.207
+"High Tx Discount, High MDS/AML","CEP",0,0

@@ -1,0 +1,6 @@
+parameter_set: NETTER&RADIANT
+submitted: 2026-09-27 00:05:55
+git_commit: d96f6db
+input_file: /users/syuliia/NECModel/NECModel/Data/input_params_NETTER&RADIANT.csv
+steps: 01a 01b 02 03
+jobs: sets=6732829 bounds=6732830 gam=6732831 diff=6732832

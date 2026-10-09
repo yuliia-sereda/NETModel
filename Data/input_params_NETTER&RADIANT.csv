@@ -1,0 +1,7 @@
+﻿param,point,point_stat,unit,est,se,source
+lambda_everolimus_12,pfs,median,years,0.916666667,0.087159864,Yao 2016 - RADIANT-4: 11.0 (95% CI: 9.2–13.3) months
+lambda_prrt_12,pfs,median,years,2.366666667,0.087159864,Kunz 2021 - NETTER-1: 28.4 (95% CI: 28.4 - NE) months
+lambda_cabozantinib_23,pfs,median,years,0.7,0.108418367,Chan 2024 - CABINET: 8.4 (95% 7.6 - 12.7) months
+lambda_dot5,mds/aml incidence,ir,1/year,0.003864586,0.278413,Calibrated to match WashU in St. Louis 5-year CIR - 0.051 (95% CI: 0.018-0.084) and NETTER-1 median OS 48.0 months (95% CI 37.4–55.2)
+lambda_57,os,median,years,1,0.331632653,Bernard 2022 -Median OS for IPSS-M [Very High]: 12 (95% CI 6.0 - 21.6) months
+lambda_46,os,median,years,0.485306472,0.03324349,Calibrated to match NETTER-1 median OS 48.0 months (95% CI 37.4–55.2) and WashU in St. Louis 5-year CIR - 0.051 (95% CI: 0.018-0.084)
