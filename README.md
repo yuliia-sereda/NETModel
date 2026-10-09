@@ -1,4 +1,4 @@
-# NECModel: treatment sequencing in small bowel neuroendocrine tumours
+# NETModel: treatment sequencing in small bowel neuroendocrine tumours
 
 A continuous-time microsimulation model comparing sequences of peptide receptor
 radionuclide therapy (PRRT; **P**), everolimus (**E**), and cabozantinib (**C**)
