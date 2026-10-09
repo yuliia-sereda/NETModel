@@ -1,4 +1,4 @@
-# NECModel 1.0.0
+# NETModel 1.0.0
 
 First public release, accompanying the manuscript on treatment sequencing in
 small bowel neuroendocrine tumours.
